@@ -12,9 +12,9 @@ https://dl-project12345.streamlit.app/
 ---
 
 ##  Team Members
-- [Tharan Prasad VM](https://github.com/Tharan-18)  
-- [Teammate 1](https://github.com/username1)  
-- [Teammate 2](https://github.com/username2)  
+- Tharan Prasad VM (https://github.com/Tharan-18)  
+- Tharun V (https://github.com/21tharun)  
+- [](https://github.com/username2)  
 - [Teammate 3](https://github.com/username3)  
 
 ---

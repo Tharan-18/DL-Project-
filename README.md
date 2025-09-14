@@ -14,8 +14,8 @@ https://dl-project12345.streamlit.app/
 ##  Team Members
 - Tharan Prasad VM (https://github.com/Tharan-18)  
 - Tharun V (https://github.com/21tharun)  
-- [](https://github.com/username2)  
-- [Teammate 3](https://github.com/username3)  
+- Udit K Bowrea (https://github.com/uk232002)  
+  
 
 ---
 

@@ -16,7 +16,7 @@ uploaded_file = st.file_uploader("Choose an X-ray image", type=["jpg", "jpeg", "
 
 if uploaded_file is not None:
     img = Image.open(uploaded_file).convert("RGB")
-    st.image(img, caption="Uploaded X-ray", use_column_width=True)
+    st.image(img, caption="Uploaded X-ray", width="stretch")
 
     # Preprocess
     img_resized = img.resize((150, 150))
